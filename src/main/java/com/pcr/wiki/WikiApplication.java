@@ -9,5 +9,5 @@ public class WikiApplication {
     public static void main(String[] args) {
         SpringApplication.run(WikiApplication.class, args);
     }
-//测试
+//测试commit
 }
